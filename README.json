@@ -94,7 +94,7 @@
             "last_commit": "2026-04-19T12:47:41Z",
             "owner": "EnableSecurity",
             "repo": "wafw00f",
-            "stars": 6516
+            "stars": 6517
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-13T17:27:36Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38179
+            "stars": 38190
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2022-09-05T20:10:30Z",
             "owner": "vincentcox",
             "repo": "bypass-firewalls-by-DNS-history",
-            "stars": 1302
+            "stars": 1303
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:10:50.505Z",
+    "last_updated": "2026-08-14T20:52:45.027Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
