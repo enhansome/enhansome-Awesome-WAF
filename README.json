@@ -201,10 +201,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:27:36Z",
+            "last_commit": "2026-08-15T07:45:24Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38190
+            "stars": 38199
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2022-09-05T20:10:30Z",
             "owner": "vincentcox",
             "repo": "bypass-firewalls-by-DNS-history",
-            "stars": 1303
+            "stars": 1304
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:52:45.027Z",
+    "last_updated": "2026-08-15T20:44:34.384Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
