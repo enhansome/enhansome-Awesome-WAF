@@ -201,10 +201,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:45:24Z",
+            "last_commit": "2026-08-15T22:17:32Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38199
+            "stars": 38204
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2026-07-20T20:29:28Z",
             "owner": "nemesida-waf",
             "repo": "waf-bypass",
-            "stars": 1519
+            "stars": 1518
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2025-07-14T12:26:46Z",
             "owner": "assetnote",
             "repo": "nowafpls",
-            "stars": 1503
+            "stars": 1502
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2022-09-05T20:10:30Z",
             "owner": "vincentcox",
             "repo": "bypass-firewalls-by-DNS-history",
-            "stars": 1304
+            "stars": 1306
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-08-11T19:55:49Z",
             "owner": "khalilbijjou",
             "repo": "WAFNinja",
-            "stars": 830
+            "stars": 831
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:44:34.384Z",
+    "last_updated": "2026-08-16T20:44:24.070Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
