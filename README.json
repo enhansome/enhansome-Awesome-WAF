@@ -94,7 +94,7 @@
             "last_commit": "2026-04-19T12:47:41Z",
             "owner": "EnableSecurity",
             "repo": "wafw00f",
-            "stars": 6517
+            "stars": 6519
           }
         },
         {
@@ -201,10 +201,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:17:32Z",
+            "last_commit": "2026-08-17T20:20:46Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38204
+            "stars": 38205
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:44:24.070Z",
+    "last_updated": "2026-08-17T20:50:09.885Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
