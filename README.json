@@ -94,7 +94,7 @@
             "last_commit": "2026-04-19T12:47:41Z",
             "owner": "EnableSecurity",
             "repo": "wafw00f",
-            "stars": 6519
+            "stars": 6521
           }
         },
         {
@@ -201,10 +201,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:20:46Z",
+            "last_commit": "2026-08-18T12:50:42Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38205
+            "stars": 38211
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2026-07-20T20:29:28Z",
             "owner": "nemesida-waf",
             "repo": "waf-bypass",
-            "stars": 1518
+            "stars": 1517
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:50:09.885Z",
+    "last_updated": "2026-08-18T20:45:38.832Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
