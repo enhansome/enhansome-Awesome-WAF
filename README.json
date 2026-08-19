@@ -1,341 +1,277 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Introduction:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Testing Methodology:"
-    },
-    {
-      "description": "Wanna fingerprint WAFs? Lets see how.",
-      "items": [],
-      "title": "WAF Fingerprints"
-    },
-    {
-      "description": "Lets look at some methods of bypassing and evading WAFs.",
-      "items": [],
-      "title": "Evasion Techniques"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Fuzzing/Bruteforcing:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Regex Reversing:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Techniques:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Obfuscation:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "HTTP Parameter Pollution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Browser Bugs:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Abuse WAF limit on HTTP Responses"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Using Whitelist Strings:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Request Header Spoofing:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Google Dorks Approach:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Known Bypasses:"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WAFW00F",
+              "description": "The ultimate WAF fingerprinting tool with the largest fingerprint database from @EnableSecurity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19788473,
+                "language": "Python",
+                "last_commit": "2026-04-19T12:47:41Z",
+                "owner": "EnableSecurity",
+                "repo": "wafw00f",
+                "stars": 6521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IdentYwaf",
+              "description": "A blind WAF detection tool which utlises a unique method of identifying WAFs based upon previously collected fingerprints by @stamparm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165047907,
+                "language": "Python",
+                "last_commit": "2024-06-25T08:15:40Z",
+                "owner": "stamparm",
+                "repo": "identYwaf",
+                "stars": 743
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fingerprinting:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GoTestWAF",
+              "description": "A tool to test a WAF's detection logic and bypasses from @wallarm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236841915,
+                "language": "Go",
+                "last_commit": "2025-07-31T14:13:27Z",
+                "owner": "wallarm",
+                "repo": "gotestwaf",
+                "stars": 1798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lightbulb Framework",
+              "description": "A WAF testing suite written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72773853,
+                "language": "Python",
+                "last_commit": "2020-11-24T16:54:32Z",
+                "owner": "lightbulb-framework",
+                "repo": "lightbulb-framework",
+                "stars": 465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Framework for Testing WAFs (FTW)",
+              "description": "A framework by the OWASP CRS team that helps to provide rigorous tests for WAF rules by using the OWASP Core Ruleset V3 as a baseline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93791495,
+                "language": "Python",
+                "last_commit": "2026-03-16T17:48:15Z",
+                "owner": "coreruleset",
+                "repo": "ftw",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WAFBench",
+              "description": "A WAF performance testing suite by Microsoft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138645963,
+                "language": "C",
+                "last_commit": "2025-12-10T00:09:04Z",
+                "owner": "microsoft",
+                "repo": "WAFBench",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WAFtester",
+              "description": "A WAF security testing CLI that fingerprints 197+ WAF vendors, benchmarks rule coverage with quantitative scoring (F1/MCC), and automates bypass discovery with 70+ evasion techniques. Supports SARIF, SonarQube, and GitLab SAST output for CI/CD integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1151528468,
+                "language": "Go",
+                "last_commit": "2026-06-05T13:53:57Z",
+                "owner": "waftester",
+                "repo": "waftester",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQLMap Tamper Scripts",
+              "description": "Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4793392,
+                "language": "Python",
+                "last_commit": "2026-08-18T12:50:42Z",
+                "owner": "sqlmapproject",
+                "repo": "sqlmap",
+                "stars": 38223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WAF Bypass Tool",
+              "description": "WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273780935,
+                "language": "Python",
+                "last_commit": "2026-07-20T20:29:28Z",
+                "owner": "nemesida-waf",
+                "repo": "waf-bypass",
+                "stars": 1518
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nowafpls",
+              "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796478303,
+                "language": "Python",
+                "last_commit": "2025-07-14T12:26:46Z",
+                "owner": "assetnote",
+                "repo": "nowafpls",
+                "stars": 1502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bypass-firewalls-by-DNS-history",
+              "description": "A tool which searches for old DNS records for finding actual site behind the WAF.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114159796,
+                "language": "Shell",
+                "last_commit": "2022-09-05T20:10:30Z",
+                "owner": "vincentcox",
+                "repo": "bypass-firewalls-by-DNS-history",
+                "stars": 1306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WAFNinja",
+              "description": "A smart tool which fuzzes and can suggest bypasses for a given WAF by @khalilbijjou.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59119961,
+                "language": "Python",
+                "last_commit": "2026-08-11T19:55:49Z",
+                "owner": "khalilbijjou",
+                "repo": "WAFNinja",
+                "stars": 831
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abuse-ssl-bypass-waf",
+              "description": "A tool which finds out supported SSL/TLS ciphers and helps in evading WAFs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139883295,
+                "language": "Python",
+                "last_commit": "2021-07-27T03:38:27Z",
+                "owner": "LandGrey",
+                "repo": "abuse-ssl-bypass-waf",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "enumXFF",
+              "description": "Eumerating IPs in X-Forwarded-Headers to bypass 403 restrictions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39186932,
+                "language": "Python",
+                "last_commit": "2022-03-29T23:40:31Z",
+                "owner": "infosec-au",
+                "repo": "enumXFF",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libinjection-fuzzer",
+              "description": "A fuzzer intended for finding bypasses but can be probably used universally.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104632999,
+                "language": "Python",
+                "last_commit": "2017-10-13T06:09:40Z",
+                "owner": "migolovanov",
+                "repo": "libinjection-fuzzer",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WAFTester",
+              "description": "Another tool which can obfuscate payloads to bypass WAFs by @Raz0r.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19786769,
+                "language": "PHP",
+                "last_commit": "2014-05-16T15:17:27Z",
+                "owner": "Raz0r",
+                "repo": "waftester",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evasion:"
+        }
+      ],
       "title": "Awesome Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WAFW00F",
-          "description": "The ultimate WAF fingerprinting tool with the largest fingerprint database from @EnableSecurity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-19T12:47:41Z",
-            "owner": "EnableSecurity",
-            "repo": "wafw00f",
-            "stars": 6521
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IdentYwaf",
-          "description": "A blind WAF detection tool which utlises a unique method of identifying WAFs based upon previously collected fingerprints by @stamparm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-25T08:15:40Z",
-            "owner": "stamparm",
-            "repo": "identYwaf",
-            "stars": 743
-          }
-        }
-      ],
-      "title": "Fingerprinting:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GoTestWAF",
-          "description": "A tool to test a WAF's detection logic and bypasses from @wallarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-07-31T14:13:27Z",
-            "owner": "wallarm",
-            "repo": "gotestwaf",
-            "stars": 1798
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lightbulb Framework",
-          "description": "A WAF testing suite written in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-24T16:54:32Z",
-            "owner": "lightbulb-framework",
-            "repo": "lightbulb-framework",
-            "stars": 465
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Framework for Testing WAFs (FTW)",
-          "description": "A framework by the OWASP CRS team that helps to provide rigorous tests for WAF rules by using the OWASP Core Ruleset V3 as a baseline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-16T17:48:15Z",
-            "owner": "coreruleset",
-            "repo": "ftw",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WAFBench",
-          "description": "A WAF performance testing suite by Microsoft.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-10T00:09:04Z",
-            "owner": "microsoft",
-            "repo": "WAFBench",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WAFtester",
-          "description": "A WAF security testing CLI that fingerprints 197+ WAF vendors, benchmarks rule coverage with quantitative scoring (F1/MCC), and automates bypass discovery with 70+ evasion techniques. Supports SARIF, SonarQube, and GitLab SAST output for CI/CD integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-05T13:53:57Z",
-            "owner": "waftester",
-            "repo": "waftester",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Testing:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SQLMap Tamper Scripts",
-          "description": "Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T12:50:42Z",
-            "owner": "sqlmapproject",
-            "repo": "sqlmap",
-            "stars": 38211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WAF Bypass Tool",
-          "description": "WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T20:29:28Z",
-            "owner": "nemesida-waf",
-            "repo": "waf-bypass",
-            "stars": 1517
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nowafpls",
-          "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-14T12:26:46Z",
-            "owner": "assetnote",
-            "repo": "nowafpls",
-            "stars": 1502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bypass-firewalls-by-DNS-history",
-          "description": "A tool which searches for old DNS records for finding actual site behind the WAF.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-09-05T20:10:30Z",
-            "owner": "vincentcox",
-            "repo": "bypass-firewalls-by-DNS-history",
-            "stars": 1306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WAFNinja",
-          "description": "A smart tool which fuzzes and can suggest bypasses for a given WAF by @khalilbijjou.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T19:55:49Z",
-            "owner": "khalilbijjou",
-            "repo": "WAFNinja",
-            "stars": 831
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "abuse-ssl-bypass-waf",
-          "description": "A tool which finds out supported SSL/TLS ciphers and helps in evading WAFs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-27T03:38:27Z",
-            "owner": "LandGrey",
-            "repo": "abuse-ssl-bypass-waf",
-            "stars": 320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "enumXFF",
-          "description": "Eumerating IPs in X-Forwarded-Headers to bypass 403 restrictions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-29T23:40:31Z",
-            "owner": "infosec-au",
-            "repo": "enumXFF",
-            "stars": 225
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libinjection-fuzzer",
-          "description": "A fuzzer intended for finding bypasses but can be probably used universally.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-10-13T06:09:40Z",
-            "owner": "migolovanov",
-            "repo": "libinjection-fuzzer",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WAFTester",
-          "description": "Another tool which can obfuscate payloads to bypass WAFs by @Raz0r.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2014-05-16T15:17:27Z",
-            "owner": "Raz0r",
-            "repo": "waftester",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Evasion:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Presentations & Research Papers"
-    },
-    {
-      "description": "Initial fingerprint compilation and bypasses were put together by Pinaki (0xInfection), but now it largely remains as a community supported repository. Awesome-WAF is licensed under the Apache 2.0 License.",
-      "items": [],
-      "title": "Credits & License:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:45:38.832Z",
+    "last_updated": "2026-08-19T12:12:23.385Z",
     "original_repository": "0xInfection/Awesome-WAF",
+    "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
     "enhanced_repository_description": null,
