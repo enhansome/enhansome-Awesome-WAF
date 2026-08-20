@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-19T12:47:41Z",
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6522
+                "stars": 6525
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-18T12:50:42Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38225
+                "stars": 38232
               }
             },
             {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:51:09.722Z",
+    "last_updated": "2026-08-20T20:52:47.345Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
