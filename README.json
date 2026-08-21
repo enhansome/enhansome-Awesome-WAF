@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-18T12:50:42Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38232
+                "stars": 38235
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-07-20T20:29:28Z",
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1518
+                "stars": 1519
               }
             },
             {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:52:47.345Z",
+    "last_updated": "2026-08-21T20:46:01.028Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",

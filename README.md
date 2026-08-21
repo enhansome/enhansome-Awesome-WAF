@@ -2597,9 +2597,9 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 72,959 | 🐛 12 | 🌐 PHP | 📅 2026-08-20.
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 72,977 | 🐛 12 | 🌐 PHP | 📅 2026-08-21.
   * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 8,975 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
-  * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 3,978 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
+  * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 3,977 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
 #### Technique:
 
@@ -4079,7 +4079,7 @@ data:text/html,<form action=https://brutelogic.com.br/xss-cp.php method=post>
 
 ### URLScan
 
-* [Directory Traversal](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L557) ⭐ 7,587 | 🐛 2 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275) (<= v3.1) (Only on ASP.NET)
+* [Directory Traversal](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L557) ⭐ 7,589 | 🐛 3 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275) (<= v3.1) (Only on ASP.NET)
 
 ```
 http://host.com/test.asp?file=.%./bla.txt
@@ -4139,7 +4139,7 @@ http://host.com/test.asp?file=.%./bla.txt
 <div contextmenu="xss">Right-Click Here<menu id="xss" onshow="alert(1)">
 ```
 
-* [SQLi Bypass](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L562) ⭐ 7,587 | 🐛 2 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275)
+* [SQLi Bypass](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L562) ⭐ 7,589 | 🐛 3 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275)
 
 ```
 10 a%nd 1=0/(se%lect top 1 ta%ble_name fr%om info%rmation_schema.tables)
@@ -4229,8 +4229,8 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,232 | 🐛 32 | 🌐 Python | 📅 2026-08-18 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
-* [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,518 | 🐛 1 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,235 | 🐛 32 | 🌐 Python | 📅 2026-08-18 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,519 | 🐛 1 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
 * [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,502 | 🐛 3 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
 * [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,306 | 🐛 9 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
 * [WAFNinja](https://github.com/khalilbijjou/wafninja) ⭐ 831 | 🐛 11 | 🌐 Python | 📅 2026-08-11 - A smart tool which fuzzes and can suggest bypasses for a given WAF by [@khalilbijjou](https://github.com/khalilbijjou/).
@@ -4315,4 +4315,4 @@ Initial fingerprint compilation and bypasses were put together by [Pinaki](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
