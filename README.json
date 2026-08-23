@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-18T12:50:42Z",
+                "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38240
+                "stars": 38250
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2025-07-14T12:26:46Z",
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1502
+                "stars": 1501
               }
             },
             {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:45:28.839Z",
+    "last_updated": "2026-08-23T20:44:53.331Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
