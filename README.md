@@ -2597,7 +2597,7 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 73,037 | 🐛 12 | 🌐 PHP | 📅 2026-08-24.
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 73,044 | 🐛 12 | 🌐 PHP | 📅 2026-08-24.
   * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 8,976 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
   * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 3,979 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
@@ -4079,7 +4079,7 @@ data:text/html,<form action=https://brutelogic.com.br/xss-cp.php method=post>
 
 ### URLScan
 
-* [Directory Traversal](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L557) ⭐ 7,590 | 🐛 3 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275) (<= v3.1) (Only on ASP.NET)
+* [Directory Traversal](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L557) ⭐ 7,591 | 🐛 3 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275) (<= v3.1) (Only on ASP.NET)
 
 ```
 http://host.com/test.asp?file=.%./bla.txt
@@ -4139,7 +4139,7 @@ http://host.com/test.asp?file=.%./bla.txt
 <div contextmenu="xss">Right-Click Here<menu id="xss" onshow="alert(1)">
 ```
 
-* [SQLi Bypass](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L562) ⭐ 7,590 | 🐛 3 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275)
+* [SQLi Bypass](https://github.com/0xInfection/Awesome-WAF/blob/master/papers/Beyond%20SQLi%20-%20Obfuscate%20and%20Bypass%20WAFs.txt#L562) ⭐ 7,591 | 🐛 3 | 🌐 Python | 📅 2026-03-26 by [@ZeQ3uL](http://www.exploit-db.com/author/?a=1275)
 
 ```
 10 a%nd 1=0/(se%lect top 1 ta%ble_name fr%om info%rmation_schema.tables)
@@ -4229,7 +4229,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,255 | 🐛 32 | 🌐 Python | 📅 2026-08-23 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,256 | 🐛 32 | 🌐 Python | 📅 2026-08-23 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
 * [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,520 | 🐛 1 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
 * [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,502 | 🐛 3 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
 * [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,306 | 🐛 9 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.

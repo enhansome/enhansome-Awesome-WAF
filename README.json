@@ -21,10 +21,10 @@
                         "archived": false,
                         "id": 3482588,
                         "language": "PHP",
-                        "last_commit": "2026-08-24T11:12:01Z",
+                        "last_commit": "2026-08-24T14:19:12Z",
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73037
+                        "stars": 73044
                       }
                     },
                     {
@@ -192,7 +192,7 @@
                 "last_commit": "2026-03-26T04:59:18Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7590
+                "stars": 7591
               }
             }
           ],
@@ -214,7 +214,7 @@
                 "last_commit": "2026-03-26T04:59:18Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7590
+                "stars": 7591
               }
             }
           ],
@@ -383,7 +383,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38255
+                "stars": 38256
               }
             },
             {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:58.568Z",
+    "last_updated": "2026-08-24T20:55:20.956Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
