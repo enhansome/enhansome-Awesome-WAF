@@ -1,6 +1,253 @@
 {
   "items": [
     {
+      "description": "Lets look at some methods of bypassing and evading WAFs.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Wordlists specifically for fuzzing",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Seclists/Fuzzing",
+                      "description": ".",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 3482588,
+                        "language": "PHP",
+                        "last_commit": "2026-08-24T11:12:01Z",
+                        "owner": "danielmiessler",
+                        "repo": "SecLists",
+                        "stars": 73037
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Fuzz-DB/Attack",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 42261096,
+                        "language": "PHP",
+                        "last_commit": "2023-11-10T16:15:18Z",
+                        "owner": "fuzzdb-project",
+                        "repo": "fuzzdb",
+                        "stars": 8976
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Other Payloads",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 52228925,
+                        "language": "Shell",
+                        "last_commit": "2023-05-15T21:54:24Z",
+                        "owner": "foospidy",
+                        "repo": "payloads",
+                        "stars": 3979
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": "Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:",
+              "node_type": "group",
+              "title": "Method:"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fuzzing/Bruteforcing:"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Find out the ciphers supported by the server (tools like SSLScan",
+                  "description": "helps here).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9476542,
+                    "language": "C",
+                    "last_commit": "2026-05-17T11:26:13Z",
+                    "owner": "rbsec",
+                    "repo": "sslscan",
+                    "stars": 2618
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tool: abuse-ssl-bypass-waf",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 139883295,
+                    "language": "Python",
+                    "last_commit": "2021-07-27T03:38:27Z",
+                    "owner": "LandGrey",
+                    "repo": "abuse-ssl-bypass-waf",
+                    "stars": 320
+                  }
+                }
+              ],
+              "description": "CLI tools like cURL can come very handy for PoCs:",
+              "node_type": "group",
+              "title": "Technique:"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Abusing SSL/TLS Ciphers:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tool: bypass-firewalls-by-DNS-history",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114159796,
+                "language": "Shell",
+                "last_commit": "2022-09-05T20:10:30Z",
+                "owner": "vincentcox",
+                "repo": "bypass-firewalls-by-DNS-history",
+                "stars": 1306
+              }
+            }
+          ],
+          "description": "TIP: Some online services like IP History and DNS Trails come to the rescue during the recon process.",
+          "node_type": "group",
+          "title": "Abusing DNS History:"
+        }
+      ],
+      "title": "Evasion Techniques"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQLi Bypass",
+              "description": "by @enkaskal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138254021,
+                "language": "JavaScript",
+                "last_commit": "2018-08-01T04:31:57Z",
+                "owner": "enkaskal",
+                "repo": "aws-waf-sqli-bypass-PoC",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XSS Bypass",
+              "description": "by @kmkz",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111841786,
+                "language": "PowerShell",
+                "last_commit": "2026-04-22T06:32:30Z",
+                "owner": "kmkz",
+                "repo": "Pentesting",
+                "stars": 589
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS WAF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Directory Traversal",
+              "description": "by @ZeQ3uL (<= v3.1) (Only on ASP.NET)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164564630,
+                "language": "Python",
+                "last_commit": "2026-03-26T04:59:18Z",
+                "owner": "0xInfection",
+                "repo": "Awesome-WAF",
+                "stars": 7590
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "URLScan"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQLi Bypass",
+              "description": "by @ZeQ3uL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164564630,
+                "language": "Python",
+                "last_commit": "2026-03-26T04:59:18Z",
+                "owner": "0xInfection",
+                "repo": "Awesome-WAF",
+                "stars": 7590
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebKnight"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Other XSS Bypasses",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97145840,
+                "language": null,
+                "last_commit": "2023-09-14T05:50:48Z",
+                "owner": "EdOverflow",
+                "repo": "bugbounty-cheatsheet",
+                "stars": 6535
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wordfence"
+        }
+      ],
+      "title": "Known Bypasses:"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -136,7 +383,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38250
+                "stars": 38255
               }
             },
             {
@@ -151,7 +398,7 @@
                 "last_commit": "2026-07-20T20:29:28Z",
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1519
+                "stars": 1520
               }
             },
             {
@@ -166,7 +413,7 @@
                 "last_commit": "2025-07-14T12:26:46Z",
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1501
+                "stars": 1502
               }
             },
             {
@@ -263,13 +510,35 @@
           "description": null,
           "node_type": "group",
           "title": "Evasion:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS Firewall Factory",
+              "description": "Deploy, update, and stage your WAFs while managing them centrally via FMS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424974259,
+                "language": "TypeScript",
+                "last_commit": "2025-11-17T19:53:06Z",
+                "owner": "globaldatanet",
+                "repo": "aws-firewall-factory",
+                "stars": 257
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Management:"
         }
       ],
       "title": "Awesome Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:44:53.331Z",
+    "last_updated": "2026-08-24T13:52:58.568Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
