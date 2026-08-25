@@ -24,7 +24,7 @@
                         "last_commit": "2026-08-24T14:19:12Z",
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73044
+                        "stars": 73050
                       }
                     },
                     {
@@ -264,7 +264,7 @@
                 "last_commit": "2026-04-19T12:47:41Z",
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6524
+                "stars": 6525
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38256
+                "stars": 38258
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-08-11T19:55:49Z",
                 "owner": "khalilbijjou",
                 "repo": "WAFNinja",
-                "stars": 831
+                "stars": 832
               }
             },
             {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:55:20.956Z",
+    "last_updated": "2026-08-25T05:48:17.918Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
