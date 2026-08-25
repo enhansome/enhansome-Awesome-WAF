@@ -21,10 +21,10 @@
                         "archived": false,
                         "id": 3482588,
                         "language": "PHP",
-                        "last_commit": "2026-08-24T14:19:12Z",
+                        "last_commit": "2026-08-25T11:10:35Z",
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73050
+                        "stars": 73067
                       }
                     },
                     {
@@ -39,7 +39,7 @@
                         "last_commit": "2023-11-10T16:15:18Z",
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8976
+                        "stars": 8978
                       }
                     },
                     {
@@ -192,7 +192,7 @@
                 "last_commit": "2026-03-26T04:59:18Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7591
+                "stars": 7590
               }
             }
           ],
@@ -214,7 +214,7 @@
                 "last_commit": "2026-03-26T04:59:18Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7591
+                "stars": 7590
               }
             }
           ],
@@ -236,7 +236,7 @@
                 "last_commit": "2023-09-14T05:50:48Z",
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6535
+                "stars": 6536
               }
             }
           ],
@@ -264,7 +264,7 @@
                 "last_commit": "2026-04-19T12:47:41Z",
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6525
+                "stars": 6526
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2026-08-23T15:35:59Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38258
+                "stars": 38264
               }
             },
             {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:17.918Z",
+    "last_updated": "2026-08-25T20:52:23.563Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
     "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
