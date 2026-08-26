@@ -21,10 +21,10 @@
                         "archived": false,
                         "id": 3482588,
                         "language": "PHP",
-                        "last_commit": "2026-08-25T11:10:35Z",
+                        "last_commit": "2026-08-26T11:12:02Z",
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73067
+                        "stars": 73105
                       }
                     },
                     {
@@ -39,7 +39,7 @@
                         "last_commit": "2023-11-10T16:15:18Z",
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8978
+                        "stars": 8980
                       }
                     },
                     {
@@ -189,10 +189,10 @@
                 "archived": false,
                 "id": 164564630,
                 "language": "Python",
-                "last_commit": "2026-03-26T04:59:18Z",
+                "last_commit": "2026-08-26T12:48:34Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7590
+                "stars": 7592
               }
             }
           ],
@@ -211,10 +211,10 @@
                 "archived": false,
                 "id": 164564630,
                 "language": "Python",
-                "last_commit": "2026-03-26T04:59:18Z",
+                "last_commit": "2026-08-26T12:48:34Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7590
+                "stars": 7592
               }
             }
           ],
@@ -264,7 +264,7 @@
                 "last_commit": "2026-04-19T12:47:41Z",
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6526
+                "stars": 6528
               }
             },
             {
@@ -380,10 +380,10 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:35:59Z",
+                "last_commit": "2026-08-26T11:46:12Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38264
+                "stars": 38272
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-07-20T20:29:28Z",
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1520
+                "stars": 1521
               }
             },
             {
@@ -493,6 +493,21 @@
             },
             {
               "node_type": "item",
+              "title": "impersonate-proxy",
+              "description": "A local MITM proxy that spoofs TLS (JA3/JA4), HTTP/2, and header fingerprints per connection to test WAF bot-detection, with a Chrome extension for live profile switching, by @ytkoka.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1217632146,
+                "language": "Go",
+                "last_commit": "2026-08-25T14:38:31Z",
+                "owner": "ytkoka",
+                "repo": "impersonate-proxy",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
               "title": "WAFTester",
               "description": "Another tool which can obfuscate payloads to bypass WAFs by @Raz0r.",
               "children": [],
@@ -538,10 +553,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:52:23.563Z",
+    "last_updated": "2026-08-26T23:49:35.914Z",
     "original_repository": "0xInfection/Awesome-WAF",
     "original_repository_id": 164564630,
-    "original_repository_sha": "898f3b091827be48e3be5dc6369572d212edc248",
+    "original_repository_sha": "5462294bfe54a8c68dca4d9decd8009d802aa2b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
     "enhanced_repository_description": null,
     "title": "Awesome WAF with stars"
