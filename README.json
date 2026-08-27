@@ -24,7 +24,7 @@
                         "last_commit": "2026-08-26T11:12:02Z",
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73105
+                        "stars": 73120
                       }
                     },
                     {
@@ -54,7 +54,7 @@
                         "last_commit": "2023-05-15T21:54:24Z",
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3979
+                        "stars": 3980
                       }
                     }
                   ]
@@ -383,7 +383,7 @@
                 "last_commit": "2026-08-26T11:46:12Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38272
+                "stars": 38278
               }
             },
             {
@@ -553,9 +553,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:49:35.914Z",
-    "original_repository": "0xInfection/Awesome-WAF",
-    "original_repository_id": 164564630,
+    "last_updated": "2026-08-27T11:27:35.021Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 164564630,
+      "language": "Python",
+      "last_commit": "2026-08-26T12:48:34Z",
+      "owner": "0xInfection",
+      "repo": "Awesome-WAF",
+      "stars": 7592
+    },
     "original_repository_sha": "5462294bfe54a8c68dca4d9decd8009d802aa2b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
     "enhanced_repository_description": null,
