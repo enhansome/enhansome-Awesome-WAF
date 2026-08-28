@@ -21,11 +21,12 @@
                         "archived": false,
                         "id": 3482588,
                         "language": "PHP",
-                        "last_commit": "2026-08-26T11:12:02Z",
+                        "last_commit": "2026-08-27T15:51:06Z",
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73120
-                      }
+                        "stars": 73131
+                      },
+                      "first_seen": "2026-08-28T04:24:03.406Z"
                     },
                     {
                       "node_type": "item",
@@ -40,7 +41,8 @@
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
                         "stars": 8980
-                      }
+                      },
+                      "first_seen": "2026-08-28T04:24:03.406Z"
                     },
                     {
                       "node_type": "item",
@@ -55,7 +57,8 @@
                         "owner": "foospidy",
                         "repo": "payloads",
                         "stars": 3980
-                      }
+                      },
+                      "first_seen": "2026-08-28T04:24:03.406Z"
                     }
                   ]
                 }
@@ -86,7 +89,8 @@
                     "owner": "rbsec",
                     "repo": "sslscan",
                     "stars": 2618
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:03.406Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +105,8 @@
                     "owner": "LandGrey",
                     "repo": "abuse-ssl-bypass-waf",
                     "stars": 320
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:24:03.406Z"
                 }
               ],
               "description": "CLI tools like cURL can come very handy for PoCs:",
@@ -128,7 +133,8 @@
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
                 "stars": 1306
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": "TIP: Some online services like IP History and DNS Trails come to the rescue during the recon process.",
@@ -156,7 +162,8 @@
                 "owner": "enkaskal",
                 "repo": "aws-waf-sqli-bypass-PoC",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -171,7 +178,8 @@
                 "owner": "kmkz",
                 "repo": "Pentesting",
                 "stars": 589
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -193,7 +201,8 @@
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
                 "stars": 7592
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -215,7 +224,8 @@
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
                 "stars": 7592
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -236,8 +246,9 @@
                 "last_commit": "2023-09-14T05:50:48Z",
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6536
-              }
+                "stars": 6537
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -264,8 +275,9 @@
                 "last_commit": "2026-04-19T12:47:41Z",
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6528
-              }
+                "stars": 6530
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -279,8 +291,9 @@
                 "last_commit": "2024-06-25T08:15:40Z",
                 "owner": "stamparm",
                 "repo": "identYwaf",
-                "stars": 743
-              }
+                "stars": 745
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -301,8 +314,9 @@
                 "last_commit": "2025-07-31T14:13:27Z",
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1799
-              }
+                "stars": 1801
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -317,7 +331,8 @@
                 "owner": "lightbulb-framework",
                 "repo": "lightbulb-framework",
                 "stars": 465
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -332,7 +347,8 @@
                 "owner": "coreruleset",
                 "repo": "ftw",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -347,7 +363,8 @@
                 "owner": "microsoft",
                 "repo": "WAFBench",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -362,7 +379,8 @@
                 "owner": "waftester",
                 "repo": "waftester",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -383,8 +401,9 @@
                 "last_commit": "2026-08-26T11:46:12Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38278
-              }
+                "stars": 38285
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -399,7 +418,8 @@
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
                 "stars": 1521
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -413,8 +433,9 @@
                 "last_commit": "2025-07-14T12:26:46Z",
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1502
-              }
+                "stars": 1503
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -429,7 +450,8 @@
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
                 "stars": 1306
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -444,7 +466,8 @@
                 "owner": "khalilbijjou",
                 "repo": "WAFNinja",
                 "stars": 832
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -459,7 +482,8 @@
                 "owner": "LandGrey",
                 "repo": "abuse-ssl-bypass-waf",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -474,7 +498,8 @@
                 "owner": "infosec-au",
                 "repo": "enumXFF",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -489,7 +514,8 @@
                 "owner": "migolovanov",
                 "repo": "libinjection-fuzzer",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -504,7 +530,8 @@
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             },
             {
               "node_type": "item",
@@ -519,7 +546,8 @@
                 "owner": "Raz0r",
                 "repo": "waftester",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -541,7 +569,8 @@
                 "owner": "globaldatanet",
                 "repo": "aws-firewall-factory",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
             }
           ],
           "description": null,
@@ -553,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:35.021Z",
+    "last_updated": "2026-08-28T04:24:03.406Z",
     "original_repository_info": {
       "archived": false,
       "id": 164564630,
