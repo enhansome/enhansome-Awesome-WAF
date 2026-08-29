@@ -2597,7 +2597,7 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 73,141 | 🐛 13 | 🌐 PHP | 📅 2026-08-27.
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 73,142 | 🐛 13 | 🌐 PHP | 📅 2026-08-27.
   * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 8,979 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
   * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 3,980 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 

@@ -19,12 +19,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+                        "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
                         "id": 3482588,
                         "language": "PHP",
+                        "license": "MIT",
                         "last_commit": "2026-08-27T15:51:06Z",
+                        "open_issues": 13,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73141
+                        "stars": 73142,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
                     },
@@ -35,12 +40,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.",
+                        "homepage": null,
                         "id": 42261096,
                         "language": "PHP",
+                        "license": null,
                         "last_commit": "2023-11-10T16:15:18Z",
+                        "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8979
+                        "stars": 8979,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
                     },
@@ -51,12 +61,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Git All the Payloads! A collection of web attack payloads.",
+                        "homepage": null,
                         "id": 52228925,
                         "language": "Shell",
+                        "license": "GPL-3.0",
                         "last_commit": "2023-05-15T21:54:24Z",
+                        "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3980
+                        "stars": 3980,
+                        "topics": [
+                          "appsec",
+                          "cybersecurity",
+                          "hacking",
+                          "passwords",
+                          "payload",
+                          "payloads",
+                          "pentest",
+                          "sqli",
+                          "web-attack-payloads",
+                          "xss"
+                        ]
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
                     }
@@ -83,12 +109,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "sslscan tests SSL/TLS enabled services to discover supported cipher suites",
+                    "homepage": null,
                     "id": 9476542,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-17T11:26:13Z",
+                    "open_issues": 65,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2618
+                    "stars": 2618,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
                 },
@@ -99,12 +130,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bypassing WAF by abusing SSL/TLS Ciphers",
+                    "homepage": null,
                     "id": 139883295,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-07-27T03:38:27Z",
+                    "open_issues": 1,
                     "owner": "LandGrey",
                     "repo": "abuse-ssl-bypass-waf",
-                    "stars": 320
+                    "stars": 320,
+                    "topics": [
+                      "bypass",
+                      "bypass-wafs",
+                      "python27",
+                      "ssl-ciphersuites-check",
+                      "web-application-firewall-bypassing"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
                 }
@@ -127,12 +169,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.",
+                "homepage": null,
                 "id": 114159796,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-09-05T20:10:30Z",
+                "open_issues": 9,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1306
+                "stars": 1306,
+                "topics": [
+                  "bugbounty",
+                  "bypassing",
+                  "dns-record",
+                  "network-security",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -156,12 +210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bypassing AWS WAF using a single ';'",
+                "homepage": "https://cryp7.net/2018/aws-waf-bypass/",
                 "id": 138254021,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-08-01T04:31:57Z",
+                "open_issues": 0,
                 "owner": "enkaskal",
                 "repo": "aws-waf-sqli-bypass-PoC",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -172,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tricks for penetration testing",
+                "homepage": null,
                 "id": 111841786,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2026-04-22T06:32:30Z",
+                "open_issues": 0,
                 "owner": "kmkz",
                 "repo": "Pentesting",
-                "stars": 589
+                "stars": 589,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -195,12 +259,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
+                "homepage": null,
                 "id": 164564630,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T12:48:34Z",
+                "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7594
+                "stars": 7594,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bypass-waf",
+                  "firewall",
+                  "infosec",
+                  "security",
+                  "waf",
+                  "waf-bypass",
+                  "waf-detection",
+                  "waf-fingerprints",
+                  "waf-test",
+                  "waf-testing",
+                  "web-application-firewall"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -218,12 +301,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
+                "homepage": null,
                 "id": 164564630,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T12:48:34Z",
+                "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7594
+                "stars": 7594,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bypass-waf",
+                  "firewall",
+                  "infosec",
+                  "security",
+                  "waf",
+                  "waf-bypass",
+                  "waf-detection",
+                  "waf-fingerprints",
+                  "waf-test",
+                  "waf-testing",
+                  "web-application-firewall"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -241,12 +343,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of interesting payloads, tips and tricks for bug bounty hunters.",
+                "homepage": null,
                 "id": 97145840,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-09-14T05:50:48Z",
+                "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6536
+                "stars": 6536,
+                "topics": [
+                  "bugbounty",
+                  "infosec",
+                  "payloads",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -270,12 +382,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.",
+                "homepage": "https://www.enablesecurity.com/",
                 "id": 19788473,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-19T12:47:41Z",
+                "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6531
+                "stars": 6531,
+                "topics": [
+                  "fingerprint",
+                  "waf",
+                  "waffit",
+                  "web-application-firewall"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -286,12 +408,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blind WAF identification tool",
+                "homepage": null,
                 "id": 165047907,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-25T08:15:40Z",
+                "open_issues": 0,
                 "owner": "stamparm",
                 "repo": "identYwaf",
-                "stars": 745
+                "stars": 745,
+                "topics": [
+                  "blind",
+                  "inference",
+                  "infosec",
+                  "network",
+                  "security",
+                  "waf"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -309,12 +443,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses",
+                "homepage": "https://lab.wallarm.com/test-your-waf-before-hackers/",
                 "id": 236841915,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-07-31T14:13:27Z",
+                "open_issues": 19,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1800
+                "stars": 1800,
+                "topics": [
+                  "api-security",
+                  "bugbounty",
+                  "graphql-security",
+                  "grpc-security",
+                  "owasp",
+                  "rest-security",
+                  "security",
+                  "security-testing",
+                  "security-tools",
+                  "waf",
+                  "web-application-firewall",
+                  "web-application-security"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -325,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for auditing WAFS",
+                "homepage": "https://lightbulb-framework.github.io/",
                 "id": 72773853,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-24T16:54:32Z",
+                "open_issues": 6,
                 "owner": "lightbulb-framework",
                 "repo": "lightbulb-framework",
-                "stars": 465
+                "stars": 465,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -341,12 +498,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for Testing WAFs (FTW!)",
+                "homepage": null,
                 "id": 93791495,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T17:48:15Z",
+                "open_issues": 9,
                 "owner": "coreruleset",
                 "repo": "ftw",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "modsecurity",
+                  "owasp",
+                  "security-tools",
+                  "waf"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -357,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WAFBench (wb) is a tool to measure the performance of WAF(Web Application Firewall) . It's based on latest code of ab (ApacheBench), and adds support for real trace replaying, framework of testing waf (FTW), and some other features.",
+                "homepage": "https://github.com/microsoft/waflab",
                 "id": 138645963,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-12-10T00:09:04Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "WAFBench",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -373,12 +545,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Professional WAF security testing toolkit",
+                "homepage": "https://waftester.com",
                 "id": 1151528468,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-05T13:53:57Z",
+                "open_issues": 3,
                 "owner": "waftester",
                 "repo": "waftester",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "cli",
+                  "devsecops",
+                  "golang",
+                  "mcp-server",
+                  "owasp",
+                  "penetration-testing",
+                  "sarif",
+                  "security",
+                  "security-testing",
+                  "waf",
+                  "waf-bypass",
+                  "web-application-firewall",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -396,12 +587,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic SQL injection and database takeover tool",
+                "homepage": "http://sqlmap.org",
                 "id": 4793392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:44:26Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38294
+                "stars": 38294,
+                "topics": [
+                  "api-security",
+                  "appsec",
+                  "database",
+                  "database-security",
+                  "dbms",
+                  "detection",
+                  "exploitation",
+                  "pentesting",
+                  "python",
+                  "security-testing",
+                  "security-testing-tool",
+                  "sql-injection",
+                  "sqlinjection",
+                  "webapp-security",
+                  "webappsec"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -412,12 +624,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check your WAF before an attacker does",
+                "homepage": "https://nemesida-waf.com",
                 "id": 273780935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-20T20:29:28Z",
+                "open_issues": 1,
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1521
+                "stars": 1521,
+                "topics": [
+                  "api-security-testing",
+                  "bypass",
+                  "graphql-injection",
+                  "lfi",
+                  "nosql-injection",
+                  "path-traversal",
+                  "python",
+                  "python3",
+                  "rce",
+                  "rfi",
+                  "sqli-injection",
+                  "ssti",
+                  "waf",
+                  "waf-bypass-tool",
+                  "waf-testing",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -428,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data",
+                "homepage": null,
                 "id": 796478303,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-14T12:26:46Z",
+                "open_issues": 3,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1503
+                "stars": 1503,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -444,12 +683,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.",
+                "homepage": null,
                 "id": 114159796,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-09-05T20:10:30Z",
+                "open_issues": 9,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1306
+                "stars": 1306,
+                "topics": [
+                  "bugbounty",
+                  "bypassing",
+                  "dns-record",
+                  "network-security",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -460,12 +711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WAFNinja is a tool which contains two functions to attack Web Application Firewalls.",
+                "homepage": null,
                 "id": 59119961,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-11T19:55:49Z",
+                "open_issues": 11,
                 "owner": "khalilbijjou",
                 "repo": "WAFNinja",
-                "stars": 833
+                "stars": 833,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -476,12 +732,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bypassing WAF by abusing SSL/TLS Ciphers",
+                "homepage": null,
                 "id": 139883295,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-27T03:38:27Z",
+                "open_issues": 1,
                 "owner": "LandGrey",
                 "repo": "abuse-ssl-bypass-waf",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "bypass",
+                  "bypass-wafs",
+                  "python27",
+                  "ssl-ciphersuites-check",
+                  "web-application-firewall-bypassing"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -492,12 +759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enumerating IPs in X-Forwarded-Headers to bypass 403 restrictions",
+                "homepage": null,
                 "id": 39186932,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-29T23:40:31Z",
+                "open_issues": 3,
                 "owner": "infosec-au",
                 "repo": "enumXFF",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -508,12 +780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool was written as PoC to article https://waf.ninja/libinjection-fuzz-to-bypass/",
+                "homepage": null,
                 "id": 104632999,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-10-13T06:09:40Z",
+                "open_issues": 0,
                 "owner": "migolovanov",
                 "repo": "libinjection-fuzzer",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -524,12 +801,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A local MITM proxy that lets you control TLS fingerprints (JA3/JA4), HTTP/2 fingerprints, HTTP header order, and User-Agent — all from a single YAML config file.",
+                "homepage": "https://ytkoka.github.io/impersonate-proxy/",
                 "id": 1217632146,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:38:31Z",
+                "open_issues": 2,
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "impersonate",
+                  "mitm-proxy",
+                  "mitmproxy"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -540,12 +826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WAF Testing Tool",
+                "homepage": null,
                 "id": 19786769,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2014-05-16T15:17:27Z",
+                "open_issues": 0,
                 "owner": "Raz0r",
                 "repo": "waftester",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -563,12 +854,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhance the security of your web applications effortlessly with AWS Firewall Factory. Safeguard your valuable assets through seamless WAF deployment, updates, and staging, all centrally managed with AWS Firewall Manager.",
+                "homepage": "https://docs.aws-firewall-factory.com/",
                 "id": 424974259,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-17T19:53:06Z",
+                "open_issues": 16,
                 "owner": "globaldatanet",
                 "repo": "aws-firewall-factory",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "amazon-web-services",
+                  "aws",
+                  "cdk",
+                  "devsecops",
+                  "firewall",
+                  "governance",
+                  "hacktoberfest",
+                  "owasp",
+                  "owasp-top-10",
+                  "security",
+                  "typescript",
+                  "waf",
+                  "wafv2"
+                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -582,15 +892,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:53.318Z",
+    "last_updated": "2026-08-29T04:17:26.490Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
+      "homepage": null,
       "id": 164564630,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2026-08-26T12:48:34Z",
+      "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7594
+      "stars": 7594,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bypass-waf",
+        "firewall",
+        "infosec",
+        "security",
+        "waf",
+        "waf-bypass",
+        "waf-detection",
+        "waf-fingerprints",
+        "waf-test",
+        "waf-testing",
+        "web-application-firewall"
+      ]
     },
     "original_repository_sha": "5462294bfe54a8c68dca4d9decd8009d802aa2b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
