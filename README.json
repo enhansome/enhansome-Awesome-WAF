@@ -24,7 +24,7 @@
                         "last_commit": "2026-08-27T15:51:06Z",
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73131
+                        "stars": 73141
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
                     },
@@ -40,7 +40,7 @@
                         "last_commit": "2023-11-10T16:15:18Z",
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8980
+                        "stars": 8979
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
                     },
@@ -200,7 +200,7 @@
                 "last_commit": "2026-08-26T12:48:34Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7592
+                "stars": 7594
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -223,7 +223,7 @@
                 "last_commit": "2026-08-26T12:48:34Z",
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7592
+                "stars": 7594
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -246,7 +246,7 @@
                 "last_commit": "2023-09-14T05:50:48Z",
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6537
+                "stars": 6536
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             }
@@ -275,7 +275,7 @@
                 "last_commit": "2026-04-19T12:47:41Z",
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6530
+                "stars": 6531
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -314,7 +314,7 @@
                 "last_commit": "2025-07-31T14:13:27Z",
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1801
+                "stars": 1800
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -398,10 +398,10 @@
                 "archived": false,
                 "id": 4793392,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:46:12Z",
+                "last_commit": "2026-08-28T07:44:26Z",
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38285
+                "stars": 38294
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -465,7 +465,7 @@
                 "last_commit": "2026-08-11T19:55:49Z",
                 "owner": "khalilbijjou",
                 "repo": "WAFNinja",
-                "stars": 832
+                "stars": 833
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-25T14:38:31Z",
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
-                "stars": 37
+                "stars": 38
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -582,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:24:03.406Z",
+    "last_updated": "2026-08-29T02:51:53.318Z",
     "original_repository_info": {
       "archived": false,
       "id": 164564630,
@@ -590,7 +590,7 @@
       "last_commit": "2026-08-26T12:48:34Z",
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7592
+      "stars": 7594
     },
     "original_repository_sha": "5462294bfe54a8c68dca4d9decd8009d802aa2b9",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
