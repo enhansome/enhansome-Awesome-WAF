@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-08-30T16:15:59Z",
+                        "last_commit": "2026-08-31T11:15:26Z",
                         "open_issues": 13,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73183,
+                        "stars": 73203,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8981,
+                        "stars": 8980,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -118,7 +118,7 @@
                     "open_issues": 65,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2618,
+                    "stars": 2619,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7597,
+                "stars": 7598,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -310,7 +310,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7597,
+                "stars": 7598,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -352,7 +352,7 @@
                 "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6535,
+                "stars": 6539,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -391,7 +391,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6531,
+                "stars": 6532,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -417,7 +417,7 @@
                 "open_issues": 0,
                 "owner": "stamparm",
                 "repo": "identYwaf",
-                "stars": 745,
+                "stars": 746,
                 "topics": [
                   "blind",
                   "inference",
@@ -596,7 +596,7 @@
                 "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38319,
+                "stars": 38328,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -671,7 +671,7 @@
                 "open_issues": 3,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1506,
+                "stars": 1507,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:50:43.082Z",
+    "last_updated": "2026-08-31T23:56:57.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -904,7 +904,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7597,
+      "stars": 7598,
       "topics": [
         "awesome",
         "awesome-list",
