@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-04T11:15:13Z",
+                        "last_commit": "2026-09-05T16:15:38Z",
                         "open_issues": 13,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73280,
+                        "stars": 73298,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3978,
+                        "stars": 3979,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -352,7 +352,7 @@
                 "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6542,
+                "stars": 6544,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -391,7 +391,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6535,
+                "stars": 6536,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -596,7 +596,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38361,
+                "stars": 38364,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -775,6 +775,35 @@
             },
             {
               "node_type": "item",
+              "title": "impersonate-proxy",
+              "description": "A local MITM proxy that spoofs TLS (JA3/JA4), HTTP/2, and header fingerprints per connection to test WAF bot-detection, with a Chrome extension for live profile switching, by @ytkoka.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A local MITM proxy that lets you control TLS fingerprints (JA3/JA4), HTTP/2 fingerprints, HTTP header order, and User-Agent — all from a single YAML config file.",
+                "homepage": "https://ytkoka.github.io/impersonate-proxy/",
+                "id": 1217632146,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-05T01:52:39Z",
+                "open_issues": 0,
+                "owner": "ytkoka",
+                "repo": "impersonate-proxy",
+                "stars": 40,
+                "topics": [
+                  "impersonate",
+                  "ja3",
+                  "ja3-fingerprint",
+                  "ja4",
+                  "ja4-fingerprint",
+                  "mitm-proxy",
+                  "mitmproxy"
+                ]
+              },
+              "first_seen": "2026-08-28T04:24:03.406Z"
+            },
+            {
+              "node_type": "item",
               "title": "libinjection-fuzzer",
               "description": "A fuzzer intended for finding bypasses but can be probably used universally.",
               "children": [],
@@ -791,31 +820,6 @@
                 "repo": "libinjection-fuzzer",
                 "stars": 39,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T04:24:03.406Z"
-            },
-            {
-              "node_type": "item",
-              "title": "impersonate-proxy",
-              "description": "A local MITM proxy that spoofs TLS (JA3/JA4), HTTP/2, and header fingerprints per connection to test WAF bot-detection, with a Chrome extension for live profile switching, by @ytkoka.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A local MITM proxy that lets you control TLS fingerprints (JA3/JA4), HTTP/2 fingerprints, HTTP header order, and User-Agent — all from a single YAML config file.",
-                "homepage": "https://ytkoka.github.io/impersonate-proxy/",
-                "id": 1217632146,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-09-04T16:13:12Z",
-                "open_issues": 0,
-                "owner": "ytkoka",
-                "repo": "impersonate-proxy",
-                "stars": 39,
-                "topics": [
-                  "impersonate",
-                  "mitm-proxy",
-                  "mitmproxy"
-                ]
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
             },
@@ -892,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:25:38.779Z",
+    "last_updated": "2026-09-05T22:07:26.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
