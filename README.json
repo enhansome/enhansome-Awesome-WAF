@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-05T16:15:38Z",
+                        "last_commit": "2026-09-06T11:13:27Z",
                         "open_issues": 13,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73298,
+                        "stars": 73318,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3979,
+                        "stars": 3980,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -114,11 +114,11 @@
                     "id": 9476542,
                     "language": "C",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-05-17T11:26:13Z",
-                    "open_issues": 65,
+                    "last_commit": "2026-09-06T19:57:31Z",
+                    "open_issues": 64,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2620,
+                    "stars": 2621,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7607,
+                "stars": 7609,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -310,7 +310,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7607,
+                "stars": 7609,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -352,7 +352,7 @@
                 "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6544,
+                "stars": 6547,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -417,7 +417,7 @@
                 "open_issues": 0,
                 "owner": "stamparm",
                 "repo": "identYwaf",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "blind",
                   "inference",
@@ -593,10 +593,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T07:47:40Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38364,
+                "stars": 38371,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -785,7 +785,7 @@
                 "id": 1217632146,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T01:52:39Z",
+                "last_commit": "2026-09-06T14:55:01Z",
                 "open_issues": 0,
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:07:26.918Z",
+    "last_updated": "2026-09-06T22:11:05.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -908,7 +908,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7607,
+      "stars": 7609,
       "topics": [
         "awesome",
         "awesome-list",
