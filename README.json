@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-06T11:13:27Z",
+                        "last_commit": "2026-09-07T11:16:15Z",
                         "open_issues": 13,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73318,
+                        "stars": 73347,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8982,
+                        "stars": 8983,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7609,
+                "stars": 7610,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -310,7 +310,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7609,
+                "stars": 7610,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -352,7 +352,7 @@
                 "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6547,
+                "stars": 6548,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -592,11 +592,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T07:47:40Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-07T10:06:28Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38371,
+                "stars": 38386,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -633,7 +633,7 @@
                 "open_issues": 1,
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1521,
+                "stars": 1522,
                 "topics": [
                   "api-security-testing",
                   "bypass",
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:11:05.932Z",
+    "last_updated": "2026-09-07T22:54:09.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -908,7 +908,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7609,
+      "stars": 7610,
       "topics": [
         "awesome",
         "awesome-list",
