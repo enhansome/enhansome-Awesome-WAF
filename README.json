@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-07T11:16:15Z",
-                        "open_issues": 13,
+                        "last_commit": "2026-09-08T16:20:02Z",
+                        "open_issues": 14,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73347,
+                        "stars": 73381,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -115,10 +115,10 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-06T19:57:31Z",
-                    "open_issues": 64,
+                    "open_issues": 65,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2621,
+                    "stars": 2622,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -352,7 +352,7 @@
                 "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6548,
+                "stars": 6550,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -391,7 +391,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6536,
+                "stars": 6537,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -417,7 +417,7 @@
                 "open_issues": 0,
                 "owner": "stamparm",
                 "repo": "identYwaf",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "blind",
                   "inference",
@@ -452,7 +452,7 @@
                 "open_issues": 19,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1802,
+                "stars": 1803,
                 "topics": [
                   "api-security",
                   "bugbounty",
@@ -593,10 +593,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T10:06:28Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38386,
+                "stars": 38385,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:54:09.688Z",
+    "last_updated": "2026-09-08T22:47:46.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
