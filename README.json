@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-08T16:20:02Z",
+                        "last_commit": "2026-09-09T11:15:39Z",
                         "open_issues": 14,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73381,
+                        "stars": 73404,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8983,
+                        "stars": 8984,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -118,7 +118,7 @@
                     "open_issues": 65,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2622,
+                    "stars": 2623,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7610,
+                "stars": 7612,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -310,7 +310,7 @@
                 "open_issues": 0,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7610,
+                "stars": 7612,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -592,11 +592,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T10:06:28Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-08T23:00:02Z",
+                "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38385,
+                "stars": 38393,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:47:46.922Z",
+    "last_updated": "2026-09-09T22:38:53.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -908,7 +908,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7610,
+      "stars": 7612,
       "topics": [
         "awesome",
         "awesome-list",
