@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-18T11:15:16Z",
-                        "open_issues": 9,
+                        "last_commit": "2026-09-19T11:13:23Z",
+                        "open_issues": 10,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73596,
+                        "stars": 73617,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8986,
+                        "stars": 8985,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3981,
+                        "stars": 3980,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -115,7 +115,7 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-17T21:03:03Z",
-                    "open_issues": 67,
+                    "open_issues": 66,
                     "owner": "rbsec",
                     "repo": "sslscan",
                     "stars": 2624,
@@ -178,7 +178,7 @@
                 "open_issues": 9,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1306,
+                "stars": 1307,
                 "topics": [
                   "bugbounty",
                   "bypassing",
@@ -268,7 +268,7 @@
                 "open_issues": 1,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7623,
+                "stars": 7625,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -310,7 +310,7 @@
                 "open_issues": 1,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7623,
+                "stars": 7625,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -391,7 +391,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6551,
+                "stars": 6552,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -592,11 +592,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T12:48:34Z",
+                "last_commit": "2026-09-19T13:58:07Z",
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38467,
+                "stars": 38475,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -671,7 +671,7 @@
                 "open_issues": 4,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1505,
+                "stars": 1507,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -692,7 +692,7 @@
                 "open_issues": 9,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1306,
+                "stars": 1307,
                 "topics": [
                   "bugbounty",
                   "bypassing",
@@ -785,7 +785,7 @@
                 "id": 1217632146,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-06T14:55:01Z",
+                "last_commit": "2026-09-19T07:59:41Z",
                 "open_issues": 0,
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:41:13.521Z",
+    "last_updated": "2026-09-19T22:22:02.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -908,7 +908,7 @@
       "open_issues": 1,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7623,
+      "stars": 7625,
       "topics": [
         "awesome",
         "awesome-list",
