@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-09-20T16:16:48Z",
+                        "last_commit": "2026-09-21T11:16:46Z",
                         "open_issues": 10,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73642,
+                        "stars": 73656,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3981,
+                        "stars": 3983,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -265,10 +265,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-26T12:48:34Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7626,
+                "stars": 7628,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -307,10 +307,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-26T12:48:34Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "0xInfection",
                 "repo": "Awesome-WAF",
-                "stars": 7626,
+                "stars": 7628,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -352,7 +352,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6556,
+                "stars": 6555,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -391,7 +391,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6552,
+                "stars": 6553,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -452,7 +452,7 @@
                 "open_issues": 19,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1805,
+                "stars": 1807,
                 "topics": [
                   "api-security",
                   "bugbounty",
@@ -533,7 +533,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "WAFBench",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -596,7 +596,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38479,
+                "stars": 38486,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -671,7 +671,7 @@
                 "open_issues": 4,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1510,
+                "stars": 1511,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:34:09.817Z",
+    "last_updated": "2026-09-21T23:24:51.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -905,10 +905,10 @@
       "language": "Python",
       "license": "Apache-2.0",
       "last_commit": "2026-08-26T12:48:34Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7626,
+      "stars": 7628,
       "topics": [
         "awesome",
         "awesome-list",
