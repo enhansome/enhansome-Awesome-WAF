@@ -2597,8 +2597,8 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 73,893 | 🐛 9 | 🌐 PHP | 📅 2026-10-02.
-  * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 8,992 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 73,917 | 🐛 9 | 🌐 PHP | 📅 2026-10-03.
+  * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 8,994 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
   * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 3,986 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
 #### Technique:
@@ -3276,7 +3276,7 @@ Many alternatives to the original JavaScript can be used, namely:
 
 #### Technique:
 
-* Find out the ciphers supported by the server (tools like [SSLScan](https://github.com/rbsec/sslscan) ⭐ 2,629 | 🐛 66 | 🌐 C | 📅 2026-09-27 helps here).
+* Find out the ciphers supported by the server (tools like [SSLScan](https://github.com/rbsec/sslscan) ⭐ 2,630 | 🐛 66 | 🌐 C | 📅 2026-09-27 helps here).
 * Dig out the ciphers supported by the firewall (usually the WAF vendor documentation discusses this).
 * If a specific cipher not supported by WAF but by the server, is found, voila!
 * Initiating a new connection to the server with that specific cipher should smuggle our payload in.
@@ -4183,7 +4183,7 @@ value="<script>alert(document.cookie)</script>">
 </html>
 ```
 
-* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,553 | 🐛 13 | 📅 2023-09-14
+* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,554 | 🐛 13 | 📅 2023-09-14
 
 ```
 <meter onmouseover="alert(1)"
@@ -4215,21 +4215,21 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Fingerprinting:
 
-* [WAFW00F](https://github.com/enablesecurity/wafw00f) ⭐ 6,565 | 🐛 0 | 🌐 Python | 📅 2026-04-19 - The ultimate WAF fingerprinting tool with the largest fingerprint database from [@EnableSecurity](https://github.com/enablesecurity).
-* [IdentYwaf](https://github.com/stamparm/identywaf) ⭐ 755 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - A blind WAF detection tool which utlises a unique method of identifying WAFs based upon previously collected fingerprints by [@stamparm](https://github.com/stamparm).
+* [WAFW00F](https://github.com/enablesecurity/wafw00f) ⭐ 6,566 | 🐛 0 | 🌐 Python | 📅 2026-04-19 - The ultimate WAF fingerprinting tool with the largest fingerprint database from [@EnableSecurity](https://github.com/enablesecurity).
+* [IdentYwaf](https://github.com/stamparm/identywaf) ⭐ 756 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - A blind WAF detection tool which utlises a unique method of identifying WAFs based upon previously collected fingerprints by [@stamparm](https://github.com/stamparm).
 
 ### Testing:
 
 * [GoTestWAF](https://github.com/wallarm/gotestwaf) ⭐ 1,811 | 🐛 1 | 🌐 Go | 📅 2026-09-25 - A tool to test a WAF's detection logic and bypasses from [@wallarm](https://github.com/wallarm).
 * [Lightbulb Framework](https://github.com/lightbulb-framework/lightbulb-framework) ⭐ 466 | 🐛 6 | 🌐 Python | 📅 2020-11-24 - A WAF testing suite written in Python.
 * [Framework for Testing WAFs (FTW)](https://github.com/coreruleset/ftw) ⭐ 143 | 🐛 9 | 🌐 Python | 📅 2026-03-16 - A framework by the [OWASP CRS team](https://coreruleset.org/) that helps to provide rigorous tests for WAF rules by using the OWASP Core Ruleset V3 as a baseline.
-* [WAFBench](https://github.com/microsoft/wafbench) ⭐ 120 | 🐛 0 | 🌐 C | 📅 2025-12-10 - A WAF performance testing suite by [Microsoft](https://github.com/microsoft).
+* [WAFBench](https://github.com/microsoft/wafbench) ⭐ 121 | 🐛 0 | 🌐 C | 📅 2025-12-10 - A WAF performance testing suite by [Microsoft](https://github.com/microsoft).
 * [WAFtester](https://github.com/waftester/waftester) ⭐ 10 | 🐛 3 | 🌐 Go | 📅 2026-06-05 - A WAF security testing CLI that fingerprints 197+ WAF vendors, benchmarks rule coverage with quantitative scoring (F1/MCC), and automates bypass discovery with 70+ evasion techniques. Supports SARIF, SonarQube, and GitLab SAST output for CI/CD integration.
 * [WAF Testing Framework](https://www.imperva.com/lg/lgw_trial.asp?pid=483) - A WAF testing tool by [Imperva](https://imperva.com).
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,587 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,597 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
 * [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,523 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
 * [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,513 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
 * [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,312 | 🐛 10 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
