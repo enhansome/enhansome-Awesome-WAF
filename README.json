@@ -15,7 +15,7 @@
                     {
                       "node_type": "item",
                       "title": "Seclists/Fuzzing",
-                      "description": ".",
+                      "description": "danielmiessler/SecLists",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -28,7 +28,7 @@
                         "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73890,
+                        "stars": 73893,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -36,7 +36,7 @@
                     {
                       "node_type": "item",
                       "title": "Fuzz-DB/Attack",
-                      "description": null,
+                      "description": "fuzzdb-project/fuzzdb",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -57,7 +57,7 @@
                     {
                       "node_type": "item",
                       "title": "Other Payloads",
-                      "description": null,
+                      "description": "foospidy/payloads",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -126,7 +126,7 @@
                 {
                   "node_type": "item",
                   "title": "Tool: abuse-ssl-bypass-waf",
-                  "description": null,
+                  "description": "LandGrey/abuse-ssl-bypass-waf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -165,7 +165,7 @@
             {
               "node_type": "item",
               "title": "Tool: bypass-firewalls-by-DNS-history",
-              "description": null,
+              "description": "vincentcox/bypass-firewalls-by-DNS-history",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -178,7 +178,7 @@
                 "open_issues": 10,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "bugbounty",
                   "bypassing",
@@ -254,92 +254,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Directory Traversal",
-              "description": "by @ZeQ3uL (<= v3.1) (Only on ASP.NET)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
-                "homepage": null,
-                "id": 164564630,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-08-26T12:48:34Z",
-                "open_issues": 2,
-                "owner": "0xInfection",
-                "repo": "Awesome-WAF",
-                "stars": 7630,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "bypass-waf",
-                  "firewall",
-                  "infosec",
-                  "security",
-                  "waf",
-                  "waf-bypass",
-                  "waf-detection",
-                  "waf-fingerprints",
-                  "waf-test",
-                  "waf-testing",
-                  "web-application-firewall"
-                ]
-              },
-              "first_seen": "2026-08-28T04:24:03.406Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "URLScan"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SQLi Bypass",
-              "description": "by @ZeQ3uL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
-                "homepage": null,
-                "id": 164564630,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-08-26T12:48:34Z",
-                "open_issues": 2,
-                "owner": "0xInfection",
-                "repo": "Awesome-WAF",
-                "stars": 7630,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "bypass-waf",
-                  "firewall",
-                  "infosec",
-                  "security",
-                  "waf",
-                  "waf-bypass",
-                  "waf-detection",
-                  "waf-fingerprints",
-                  "waf-test",
-                  "waf-testing",
-                  "web-application-firewall"
-                ]
-              },
-              "first_seen": "2026-08-28T04:24:03.406Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "WebKnight"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Other XSS Bypasses",
-              "description": null,
+              "description": "EdOverflow/bugbounty-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -692,7 +608,7 @@
                 "open_issues": 10,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "bugbounty",
                   "bypassing",
@@ -896,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:52:56.632Z",
+    "last_updated": "2026-10-03T04:32:23.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -908,7 +824,7 @@
       "open_issues": 2,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7630,
+      "stars": 7631,
       "topics": [
         "awesome",
         "awesome-list",
