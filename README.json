@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-10-03T11:38:31Z",
+                        "last_commit": "2026-10-05T16:21:05Z",
                         "open_issues": 10,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73934,
+                        "stars": 73956,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8994,
+                        "stars": 8992,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "kmkz",
                 "repo": "Pentesting",
-                "stars": 589,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6555,
+                "stars": 6553,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -307,7 +307,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6567,
+                "stars": 6569,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -333,7 +333,7 @@
                 "open_issues": 0,
                 "owner": "stamparm",
                 "repo": "identYwaf",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "blind",
                   "inference",
@@ -368,7 +368,7 @@
                 "open_issues": 1,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1811,
+                "stars": 1813,
                 "topics": [
                   "api-security",
                   "bugbounty",
@@ -508,11 +508,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T20:20:32Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-05T21:54:40Z",
+                "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38605,
+                "stars": 38606,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -549,7 +549,7 @@
                 "open_issues": 3,
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1523,
+                "stars": 1522,
                 "topics": [
                   "api-security-testing",
                   "bypass",
@@ -587,7 +587,7 @@
                 "open_issues": 4,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1517,
+                "stars": 1518,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:19:49.914Z",
+    "last_updated": "2026-10-06T01:20:56.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
