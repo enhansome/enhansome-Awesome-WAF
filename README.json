@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-10-06T11:16:12Z",
+                        "last_commit": "2026-10-07T11:16:14Z",
                         "open_issues": 10,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 73978,
+                        "stars": 73992,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -118,7 +118,7 @@
                     "open_issues": 66,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2631,
+                    "stars": 2632,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6554,
+                "stars": 6555,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -512,7 +512,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38614,
+                "stars": 38619,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:55:08.848Z",
+    "last_updated": "2026-10-08T00:17:10.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 2,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7634,
+      "stars": 7635,
       "topics": [
         "awesome",
         "awesome-list",
