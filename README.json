@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-10-09T11:16:54Z",
+                        "last_commit": "2026-10-10T11:15:18Z",
                         "open_issues": 10,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74089,
+                        "stars": 74109,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3988,
+                        "stars": 3989,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -368,7 +368,7 @@
                 "open_issues": 1,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "api-security",
                   "bugbounty",
@@ -508,11 +508,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T21:54:40Z",
+                "last_commit": "2026-10-10T10:00:36Z",
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38639,
+                "stars": 38645,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:07:00.407Z",
+    "last_updated": "2026-10-10T23:41:09.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7636,
+      "stars": 7637,
       "topics": [
         "awesome",
         "awesome-list",
