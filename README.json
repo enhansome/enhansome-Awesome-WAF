@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-10-11T16:19:01Z",
+                        "last_commit": "2026-10-12T11:18:27Z",
                         "open_issues": 10,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74123,
+                        "stars": 74145,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 8997,
+                        "stars": 8999,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 3991,
+                        "stars": 3993,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -268,7 +268,7 @@
                 "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6557,
+                "stars": 6558,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -333,7 +333,7 @@
                 "open_issues": 0,
                 "owner": "stamparm",
                 "repo": "identYwaf",
-                "stars": 758,
+                "stars": 757,
                 "topics": [
                   "blind",
                   "inference",
@@ -512,7 +512,7 @@
                 "open_issues": 31,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38649,
+                "stars": 38659,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:46:33.716Z",
+    "last_updated": "2026-10-13T02:08:24.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7638,
+      "stars": 7640,
       "topics": [
         "awesome",
         "awesome-list",
