@@ -2597,8 +2597,8 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,167 | 🐛 10 | 🌐 PHP | 📅 2026-10-13.
-  * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 9,000 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,123 | 🐛 10 | 🌐 PHP | 📅 2026-10-14.
+  * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 9,001 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
   * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 3,994 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
 #### Technique:
@@ -3314,7 +3314,7 @@ curl --ciphers <cipher> -G <test site> -d <payload with parameter>
 
 > **TIP:** Some online services like [IP History](http://www.iphistory.ch/en/) and [DNS Trails](https://securitytrails.com/dns-trails) come to the rescue during the recon process.
 
-**Tool**: [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,314 | 🐛 9 | 🌐 Shell | 📅 2022-09-05
+**Tool**: [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,314 | 🐛 10 | 🌐 Shell | 📅 2022-09-05
 
 ```
 bash bypass-firewalls-by-DNS-history.sh -d <target> --checkall
@@ -3413,7 +3413,7 @@ Before anything else, you should hone up skills from [Google Dorks Cheat Sheet](
 "; select * from TARGET_TABLE --
 ```
 
-* [XSS Bypass](https://github.com/kmkz/Pentesting/blob/master/Pentest-Cheat-Sheet#L285) ⭐ 589 | 🐛 0 | 🌐 PowerShell | 📅 2026-04-22 by [@kmkz](https://twitter.com/kmkz_security)
+* [XSS Bypass](https://github.com/kmkz/Pentesting/blob/master/Pentest-Cheat-Sheet#L285) ⭐ 590 | 🐛 0 | 🌐 PowerShell | 📅 2026-04-22 by [@kmkz](https://twitter.com/kmkz_security)
 
 ```
 <script>eval(atob(decodeURIComponent("payload")))//
@@ -4183,7 +4183,7 @@ value="<script>alert(document.cookie)</script>">
 </html>
 ```
 
-* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,562 | 🐛 12 | 📅 2023-09-14
+* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,564 | 🐛 13 | 📅 2023-09-14
 
 ```
 <meter onmouseover="alert(1)"
@@ -4229,13 +4229,13 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,678 | 🐛 31 | 🌐 Python | 📅 2026-10-11 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
-* [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,527 | 🐛 1 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
-* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,519 | 🐛 3 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
-* [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,314 | 🐛 9 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,684 | 🐛 31 | 🌐 Python | 📅 2026-10-11 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,529 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
+* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,519 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
+* [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,314 | 🐛 10 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
 * [WAFNinja](https://github.com/khalilbijjou/wafninja) ⭐ 833 | 🐛 11 | 🌐 Python | 📅 2026-08-11 - A smart tool which fuzzes and can suggest bypasses for a given WAF by [@khalilbijjou](https://github.com/khalilbijjou/).
 * [abuse-ssl-bypass-waf](https://github.com/LandGrey/abuse-ssl-bypass-waf) ⭐ 319 | 🐛 1 | 🌐 Python | 📅 2021-07-27 - A tool which finds out supported SSL/TLS ciphers and helps in evading WAFs.
-* [enumXFF](https://github.com/infosec-au/enumXFF) ⭐ 225 | 🐛 3 | 🌐 Python | 📅 2022-03-29 - Eumerating IPs in X-Forwarded-Headers to bypass 403 restrictions
+* [enumXFF](https://github.com/infosec-au/enumXFF) ⭐ 225 | 🐛 5 | 🌐 Python | 📅 2022-03-29 - Eumerating IPs in X-Forwarded-Headers to bypass 403 restrictions
 * [impersonate-proxy](https://github.com/ytkoka/impersonate-proxy) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-10-13 - A local MITM proxy that spoofs TLS (JA3/JA4), HTTP/2, and header fingerprints per connection to test WAF bot-detection, with a Chrome extension for live profile switching, by [@ytkoka](https://github.com/ytkoka).
 * [libinjection-fuzzer](https://github.com/migolovanov/libinjection-fuzzer) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2017-10-13 - A fuzzer intended for finding `libinjection` bypasses but can be probably used universally.
 * [WAFTester](https://github.com/Raz0r/waftester) ⭐ 21 | 🐛 0 | 🌐 PHP | 📅 2014-05-16 - Another tool which can obfuscate payloads to bypass WAFs by [@Raz0r](https://github.com/Raz0r/).
@@ -4243,7 +4243,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Management:
 
-* [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 16 | 🌐 TypeScript | 📅 2025-11-17 - Deploy, update, and stage your WAFs while managing them centrally via FMS.
+* [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) ⭐ 257 | 🐛 19 | 🌐 TypeScript | 📅 2025-11-17 - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 
 ## Blogs and Writeups
 
@@ -4316,4 +4316,4 @@ Initial fingerprint compilation and bypasses were put together by [Pinaki](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
