@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-10-21T11:16:36Z",
+                        "last_commit": "2026-10-22T11:15:50Z",
                         "open_issues": 10,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74277,
+                        "stars": 74294,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6569,
+                "stars": 6568,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -307,7 +307,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6581,
+                "stars": 6583,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -368,7 +368,7 @@
                 "open_issues": 1,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "api-security",
                   "bugbounty",
@@ -508,11 +508,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T11:51:38Z",
+                "last_commit": "2026-10-22T22:34:02Z",
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38765,
+                "stars": 38770,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -549,7 +549,7 @@
                 "open_issues": 3,
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1530,
+                "stars": 1529,
                 "topics": [
                   "api-security-testing",
                   "bypass",
@@ -587,7 +587,7 @@
                 "open_issues": 4,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1520,
+                "stars": 1523,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -705,7 +705,7 @@
                 "open_issues": 0,
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "impersonate",
                   "ja3",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:28:44.097Z",
+    "last_updated": "2026-10-22T23:28:42.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 3,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7654,
+      "stars": 7655,
       "topics": [
         "awesome",
         "awesome-list",
