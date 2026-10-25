@@ -2597,9 +2597,9 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,326 | 🐛 10 | 🌐 PHP | 📅 2026-10-24.
-  * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 9,004 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
-  * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 3,999 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,346 | 🐛 10 | 🌐 PHP | 📅 2026-10-25.
+  * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 9,005 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
+  * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 4,000 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
 #### Technique:
 
@@ -4229,9 +4229,9 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,776 | 🐛 14 | 🌐 Python | 📅 2026-10-22 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
-* [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,529 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
-* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,522 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,786 | 🐛 14 | 🌐 Python | 📅 2026-10-25 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,530 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
+* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,521 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
 * [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,313 | 🐛 10 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
 * [WAFNinja](https://github.com/khalilbijjou/wafninja) ⭐ 832 | 🐛 11 | 🌐 Python | 📅 2026-08-11 - A smart tool which fuzzes and can suggest bypasses for a given WAF by [@khalilbijjou](https://github.com/khalilbijjou/).
 * [abuse-ssl-bypass-waf](https://github.com/LandGrey/abuse-ssl-bypass-waf) ⭐ 319 | 🐛 1 | 🌐 Python | 📅 2021-07-27 - A tool which finds out supported SSL/TLS ciphers and helps in evading WAFs.
@@ -4316,4 +4316,4 @@ Initial fingerprint compilation and bypasses were put together by [Pinaki](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
