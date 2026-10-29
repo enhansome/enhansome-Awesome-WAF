@@ -2597,9 +2597,9 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,396 | 🐛 9 | 🌐 PHP | 📅 2026-10-27.
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,419 | 🐛 9 | 🌐 PHP | 📅 2026-10-28.
   * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 9,006 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
-  * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 4,002 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
+  * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 4,000 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
 #### Technique:
 
@@ -3276,7 +3276,7 @@ Many alternatives to the original JavaScript can be used, namely:
 
 #### Technique:
 
-* Find out the ciphers supported by the server (tools like [SSLScan](https://github.com/rbsec/sslscan) ⭐ 2,632 | 🐛 66 | 🌐 C | 📅 2026-09-27 helps here).
+* Find out the ciphers supported by the server (tools like [SSLScan](https://github.com/rbsec/sslscan) ⭐ 2,631 | 🐛 66 | 🌐 C | 📅 2026-09-27 helps here).
 * Dig out the ciphers supported by the firewall (usually the WAF vendor documentation discusses this).
 * If a specific cipher not supported by WAF but by the server, is found, voila!
 * Initiating a new connection to the server with that specific cipher should smuggle our payload in.
@@ -3413,7 +3413,7 @@ Before anything else, you should hone up skills from [Google Dorks Cheat Sheet](
 "; select * from TARGET_TABLE --
 ```
 
-* [XSS Bypass](https://github.com/kmkz/Pentesting/blob/master/Pentest-Cheat-Sheet#L285) ⭐ 591 | 🐛 0 | 🌐 PowerShell | 📅 2026-04-22 by [@kmkz](https://twitter.com/kmkz_security)
+* [XSS Bypass](https://github.com/kmkz/Pentesting/blob/master/Pentest-Cheat-Sheet#L285) ⭐ 590 | 🐛 0 | 🌐 PowerShell | 📅 2026-04-22 by [@kmkz](https://twitter.com/kmkz_security)
 
 ```
 <script>eval(atob(decodeURIComponent("payload")))//
@@ -4220,7 +4220,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Testing:
 
-* [GoTestWAF](https://github.com/wallarm/gotestwaf) ⭐ 1,816 | 🐛 3 | 🌐 Go | 📅 2026-09-25 - A tool to test a WAF's detection logic and bypasses from [@wallarm](https://github.com/wallarm).
+* [GoTestWAF](https://github.com/wallarm/gotestwaf) ⭐ 1,816 | 🐛 1 | 🌐 Go | 📅 2026-10-28 - A tool to test a WAF's detection logic and bypasses from [@wallarm](https://github.com/wallarm).
 * [Lightbulb Framework](https://github.com/lightbulb-framework/lightbulb-framework) ⭐ 466 | 🐛 6 | 🌐 Python | 📅 2020-11-24 - A WAF testing suite written in Python.
 * [Framework for Testing WAFs (FTW)](https://github.com/coreruleset/ftw) ⭐ 143 | 🐛 9 | 🌐 Python | 📅 2026-03-16 - A framework by the [OWASP CRS team](https://coreruleset.org/) that helps to provide rigorous tests for WAF rules by using the OWASP Core Ruleset V3 as a baseline.
 * [WAFBench](https://github.com/microsoft/wafbench) ⭐ 121 | 🐛 0 | 🌐 C | 📅 2025-12-10 - A WAF performance testing suite by [Microsoft](https://github.com/microsoft).
@@ -4229,9 +4229,9 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,812 | 🐛 14 | 🌐 Python | 📅 2026-10-27 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,809 | 🐛 14 | 🌐 Python | 📅 2026-10-27 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
 * [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,531 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
-* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,523 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
+* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,521 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
 * [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,313 | 🐛 10 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
 * [WAFNinja](https://github.com/khalilbijjou/wafninja) ⭐ 833 | 🐛 11 | 🌐 Python | 📅 2026-08-11 - A smart tool which fuzzes and can suggest bypasses for a given WAF by [@khalilbijjou](https://github.com/khalilbijjou/).
 * [abuse-ssl-bypass-waf](https://github.com/LandGrey/abuse-ssl-bypass-waf) ⭐ 319 | 🐛 1 | 🌐 Python | 📅 2021-07-27 - A tool which finds out supported SSL/TLS ciphers and helps in evading WAFs.
@@ -4316,4 +4316,4 @@ Initial fingerprint compilation and bypasses were put together by [Pinaki](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

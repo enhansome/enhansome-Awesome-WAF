@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-10-27T11:16:22Z",
+                        "last_commit": "2026-10-28T11:11:44Z",
                         "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74396,
+                        "stars": 74419,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 4002,
+                        "stars": 4000,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -118,7 +118,7 @@
                     "open_issues": 66,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2632,
+                    "stars": 2631,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "kmkz",
                 "repo": "Pentesting",
-                "stars": 591,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -364,8 +364,8 @@
                 "id": 236841915,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-25T21:10:52Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-28T07:15:27Z",
+                "open_issues": 1,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
                 "stars": 1816,
@@ -512,7 +512,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38812,
+                "stars": 38809,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -587,7 +587,7 @@
                 "open_issues": 4,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1523,
+                "stars": 1521,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:52:15.605Z",
+    "last_updated": "2026-10-29T00:05:42.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
