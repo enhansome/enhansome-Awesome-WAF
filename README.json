@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-10-31T11:08:55Z",
+                        "last_commit": "2026-11-01T17:08:28Z",
                         "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74453,
+                        "stars": 74466,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 9008,
+                        "stars": 9009,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -307,7 +307,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6588,
+                "stars": 6591,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -509,10 +509,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T16:31:42Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38824,
+                "stars": 38829,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -705,7 +705,7 @@
                 "open_issues": 0,
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "impersonate",
                   "ja3",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:30:25.282Z",
+    "last_updated": "2026-11-01T23:43:05.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 3,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7662,
+      "stars": 7664,
       "topics": [
         "awesome",
         "awesome-list",
