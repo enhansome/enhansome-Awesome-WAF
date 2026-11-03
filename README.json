@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-11-01T17:08:28Z",
+                        "last_commit": "2026-11-02T11:11:01Z",
                         "open_issues": 9,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74466,
+                        "stars": 74508,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -115,7 +115,7 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-27T16:44:09Z",
-                    "open_issues": 66,
+                    "open_issues": 67,
                     "owner": "rbsec",
                     "repo": "sslscan",
                     "stars": 2632,
@@ -268,7 +268,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6578,
+                "stars": 6577,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -307,7 +307,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6591,
+                "stars": 6590,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -508,11 +508,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T16:31:42Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-02T10:13:45Z",
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38829,
+                "stars": 38830,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:43:05.921Z",
+    "last_updated": "2026-11-03T02:29:05.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -820,11 +820,11 @@
       "id": 164564630,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-08-26T12:48:34Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-02T06:58:28Z",
+      "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7664,
+      "stars": 7666,
       "topics": [
         "awesome",
         "awesome-list",
@@ -841,7 +841,7 @@
         "web-application-firewall"
       ]
     },
-    "original_repository_sha": "5462294bfe54a8c68dca4d9decd8009d802aa2b9",
+    "original_repository_sha": "5c2a468f349481974cb500dc69401dfe9bc0ce51",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
     "enhanced_repository_description": null,
     "title": "Awesome WAF with stars"
