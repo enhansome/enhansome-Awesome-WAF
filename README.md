@@ -2597,7 +2597,7 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,522 | 🐛 9 | 🌐 PHP | 📅 2026-11-03.
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,538 | 🐛 9 | 🌐 PHP | 📅 2026-11-04.
   * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 9,009 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
   * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 4,004 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
@@ -3276,7 +3276,7 @@ Many alternatives to the original JavaScript can be used, namely:
 
 #### Technique:
 
-* Find out the ciphers supported by the server (tools like [SSLScan](https://github.com/rbsec/sslscan) ⭐ 2,632 | 🐛 67 | 🌐 C | 📅 2026-09-27 helps here).
+* Find out the ciphers supported by the server (tools like [SSLScan](https://github.com/rbsec/sslscan) ⭐ 2,632 | 🐛 68 | 🌐 C | 📅 2026-09-27 helps here).
 * Dig out the ciphers supported by the firewall (usually the WAF vendor documentation discusses this).
 * If a specific cipher not supported by WAF but by the server, is found, voila!
 * Initiating a new connection to the server with that specific cipher should smuggle our payload in.
@@ -4183,7 +4183,7 @@ value="<script>alert(document.cookie)</script>">
 </html>
 ```
 
-* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,578 | 🐛 13 | 📅 2023-09-14
+* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,581 | 🐛 13 | 📅 2023-09-14
 
 ```
 <meter onmouseover="alert(1)"
@@ -4215,7 +4215,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Fingerprinting:
 
-* [WAFW00F](https://github.com/enablesecurity/wafw00f) ⭐ 6,591 | 🐛 0 | 🌐 Python | 📅 2026-04-19 - The ultimate WAF fingerprinting tool with the largest fingerprint database from [@EnableSecurity](https://github.com/enablesecurity).
+* [WAFW00F](https://github.com/enablesecurity/wafw00f) ⭐ 6,590 | 🐛 0 | 🌐 Python | 📅 2026-04-19 - The ultimate WAF fingerprinting tool with the largest fingerprint database from [@EnableSecurity](https://github.com/enablesecurity).
 * [IdentYwaf](https://github.com/stamparm/identywaf) ⭐ 758 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - A blind WAF detection tool which utlises a unique method of identifying WAFs based upon previously collected fingerprints by [@stamparm](https://github.com/stamparm).
 
 ### Testing:
@@ -4229,7 +4229,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,842 | 🐛 14 | 🌐 Python | 📅 2026-11-03 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 38,849 | 🐛 15 | 🌐 Python | 📅 2026-11-04 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
 * [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,529 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
 * [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,523 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
 * [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,313 | 🐛 10 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
@@ -4317,4 +4317,4 @@ Initial fingerprint compilation and bypasses were put together by [Pinaki](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
