@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-11-07T17:08:34Z",
+                        "last_commit": "2026-11-08T11:08:52Z",
                         "open_issues": 11,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74601,
+                        "stars": 74629,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 4005,
+                        "stars": 4006,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -139,7 +139,7 @@
                     "open_issues": 1,
                     "owner": "LandGrey",
                     "repo": "abuse-ssl-bypass-waf",
-                    "stars": 318,
+                    "stars": 319,
                     "topics": [
                       "bypass",
                       "bypass-wafs",
@@ -268,7 +268,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6580,
+                "stars": 6581,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -307,7 +307,7 @@
                 "open_issues": 2,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6594,
+                "stars": 6596,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -512,7 +512,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38880,
+                "stars": 38889,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -657,7 +657,7 @@
                 "open_issues": 1,
                 "owner": "LandGrey",
                 "repo": "abuse-ssl-bypass-waf",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "bypass",
                   "bypass-wafs",
@@ -701,7 +701,7 @@
                 "id": 1217632146,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-07T16:37:15Z",
+                "last_commit": "2026-11-08T07:42:42Z",
                 "open_issues": 0,
                 "owner": "ytkoka",
                 "repo": "impersonate-proxy",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:44:07.913Z",
+    "last_updated": "2026-11-08T23:50:01.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7671,
+      "stars": 7672,
       "topics": [
         "awesome",
         "awesome-list",
