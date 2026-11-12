@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-11-10T17:10:09Z",
+                        "last_commit": "2026-11-11T11:10:24Z",
                         "open_issues": 11,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74684,
+                        "stars": 74707,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 9007,
+                        "stars": 9008,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -118,7 +118,7 @@
                     "open_issues": 66,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2633,
+                    "stars": 2634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "kmkz",
                 "repo": "Pentesting",
-                "stars": 590,
+                "stars": 591,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -307,7 +307,7 @@
                 "open_issues": 2,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6596,
+                "stars": 6598,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -470,7 +470,7 @@
                 "open_issues": 3,
                 "owner": "waftester",
                 "repo": "waftester",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "cli",
                   "devsecops",
@@ -512,7 +512,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38916,
+                "stars": 38931,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -783,7 +783,7 @@
                 "open_issues": 19,
                 "owner": "globaldatanet",
                 "repo": "aws-firewall-factory",
-                "stars": 256,
+                "stars": 257,
                 "topics": [
                   "amazon-web-services",
                   "aws",
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:43:53.177Z",
+    "last_updated": "2026-11-12T01:56:48.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 0,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7674,
+      "stars": 7675,
       "topics": [
         "awesome",
         "awesome-list",
