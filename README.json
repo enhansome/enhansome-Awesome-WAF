@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-11-16T17:10:19Z",
+                        "last_commit": "2026-11-17T11:10:32Z",
                         "open_issues": 11,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74793,
+                        "stars": 74821,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 4006,
+                        "stars": 4005,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -118,7 +118,7 @@
                     "open_issues": 65,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2635,
+                    "stars": 2636,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6584,
+                "stars": 6593,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -512,7 +512,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38970,
+                "stars": 38976,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -587,7 +587,7 @@
                 "open_issues": 4,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1525,
+                "stars": 1527,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:00:37.391Z",
+    "last_updated": "2026-11-18T02:29:24.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
@@ -821,10 +821,10 @@
       "language": "Python",
       "license": "Apache-2.0",
       "last_commit": "2026-11-02T06:58:28Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7681,
+      "stars": 7685,
       "topics": [
         "awesome",
         "awesome-list",
