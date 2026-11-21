@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-11-19T17:09:45Z",
+                        "last_commit": "2026-11-20T11:10:30Z",
                         "open_issues": 11,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74847,
+                        "stars": 74868,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 13,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6595,
+                "stars": 6596,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -307,7 +307,7 @@
                 "open_issues": 2,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
-                "stars": 6602,
+                "stars": 6603,
                 "topics": [
                   "fingerprint",
                   "waf",
@@ -470,7 +470,7 @@
                 "open_issues": 3,
                 "owner": "waftester",
                 "repo": "waftester",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "cli",
                   "devsecops",
@@ -512,7 +512,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38989,
+                "stars": 39000,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -549,7 +549,7 @@
                 "open_issues": 3,
                 "owner": "nemesida-waf",
                 "repo": "waf-bypass",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": [
                   "api-security-testing",
                   "bypass",
@@ -587,7 +587,7 @@
                 "open_issues": 4,
                 "owner": "assetnote",
                 "repo": "nowafpls",
-                "stars": 1528,
+                "stars": 1527,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:48:45.431Z",
+    "last_updated": "2026-11-21T01:37:21.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
