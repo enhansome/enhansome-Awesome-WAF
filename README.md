@@ -2597,7 +2597,7 @@ Lets look at some methods of bypassing and evading WAFs.
 Running a set of payloads against the URL/endpoint. Some nice fuzzing wordlists:
 
 * Wordlists specifically for fuzzing
-  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,877 | 🐛 11 | 🌐 PHP | 📅 2026-11-21.
+  * [Seclists/Fuzzing](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing) ⭐ 74,898 | 🐛 11 | 🌐 PHP | 📅 2026-11-22.
   * [Fuzz-DB/Attack](https://github.com/fuzzdb-project/fuzzdb/tree/master/attack) ⭐ 9,010 | 🐛 15 | 🌐 PHP | 📅 2023-11-10
   * [Other Payloads](https://github.com/foospidy/payloads) ⭐ 4,005 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 
@@ -4183,7 +4183,7 @@ value="<script>alert(document.cookie)</script>">
 </html>
 ```
 
-* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,597 | 🐛 13 | 📅 2023-09-14
+* [Other XSS Bypasses](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) ⭐ 6,599 | 🐛 13 | 📅 2023-09-14
 
 ```
 <meter onmouseover="alert(1)"
@@ -4215,7 +4215,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Fingerprinting:
 
-* [WAFW00F](https://github.com/enablesecurity/wafw00f) ⭐ 6,605 | 🐛 2 | 🌐 Python | 📅 2026-04-19 - The ultimate WAF fingerprinting tool with the largest fingerprint database from [@EnableSecurity](https://github.com/enablesecurity).
+* [WAFW00F](https://github.com/enablesecurity/wafw00f) ⭐ 6,607 | 🐛 2 | 🌐 Python | 📅 2026-04-19 - The ultimate WAF fingerprinting tool with the largest fingerprint database from [@EnableSecurity](https://github.com/enablesecurity).
 * [IdentYwaf](https://github.com/stamparm/identywaf) ⭐ 758 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - A blind WAF detection tool which utlises a unique method of identifying WAFs based upon previously collected fingerprints by [@stamparm](https://github.com/stamparm).
 
 ### Testing:
@@ -4229,9 +4229,9 @@ User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
 
 ### Evasion:
 
-* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 39,010 | 🐛 16 | 🌐 Python | 📅 2026-11-19 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
+* [SQLMap Tamper Scripts](https://github.com/sqlmapproject/sqlmap) ⭐ 39,013 | 🐛 14 | 🌐 Python | 📅 2026-11-19 - Tamper scripts in SQLMap obfuscate payloads which might evade some WAFs.
 * [WAF Bypass Tool](https://github.com/nemesida-waf/waf-bypass) ⭐ 1,530 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - WAF bypass Tool from Nemesida is an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads.
-* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,527 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
+* [nowafpls](https://github.com/assetnote/nowafpls) ⭐ 1,526 | 🐛 4 | 🌐 Python | 📅 2025-07-14 - Burp Plugin to Bypass WAFs through the insertion of Junk Data.
 * [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history) ⭐ 1,312 | 🐛 10 | 🌐 Shell | 📅 2022-09-05 -  A tool which searches for old DNS records for finding actual site behind the WAF.
 * [WAFNinja](https://github.com/khalilbijjou/wafninja) ⭐ 834 | 🐛 11 | 🌐 Python | 📅 2026-08-11 - A smart tool which fuzzes and can suggest bypasses for a given WAF by [@khalilbijjou](https://github.com/khalilbijjou/).
 * [abuse-ssl-bypass-waf](https://github.com/LandGrey/abuse-ssl-bypass-waf) ⭐ 319 | 🐛 1 | 🌐 Python | 📅 2021-07-27 - A tool which finds out supported SSL/TLS ciphers and helps in evading WAFs.
@@ -4317,4 +4317,4 @@ Initial fingerprint compilation and bypasses were put together by [Pinaki](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
