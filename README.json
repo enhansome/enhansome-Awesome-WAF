@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-11-23T11:10:12Z",
+                        "last_commit": "2026-11-24T11:10:56Z",
                         "open_issues": 11,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74917,
+                        "stars": 74940,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 4005,
+                        "stars": 4006,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -118,7 +118,7 @@
                     "open_issues": 67,
                     "owner": "rbsec",
                     "repo": "sslscan",
-                    "stars": 2638,
+                    "stars": 2639,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:24:03.406Z"
@@ -268,7 +268,7 @@
                 "open_issues": 12,
                 "owner": "EdOverflow",
                 "repo": "bugbounty-cheatsheet",
-                "stars": 6599,
+                "stars": 6601,
                 "topics": [
                   "bugbounty",
                   "infosec",
@@ -304,7 +304,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-04-19T12:47:41Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
                 "stars": 6607,
@@ -368,7 +368,7 @@
                 "open_issues": 1,
                 "owner": "wallarm",
                 "repo": "gotestwaf",
-                "stars": 1820,
+                "stars": 1822,
                 "topics": [
                   "api-security",
                   "bugbounty",
@@ -470,7 +470,7 @@
                 "open_issues": 3,
                 "owner": "waftester",
                 "repo": "waftester",
-                "stars": 16,
+                "stars": 18,
                 "topics": [
                   "cli",
                   "devsecops",
@@ -508,11 +508,11 @@
                 "id": 4793392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T22:33:18Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-24T21:10:36Z",
+                "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39025,
+                "stars": 39032,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -812,19 +812,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:52:20.779Z",
+    "last_updated": "2026-11-25T03:36:50.016Z",
     "original_repository_info": {
       "archived": false,
-      "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
+      "description": "Everything about Web Application Firewalls (WAFs) from a security eyelens! 🔥",
       "homepage": null,
       "id": 164564630,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-11-02T06:58:28Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-24T11:53:12Z",
+      "open_issues": 1,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7692,
+      "stars": 7694,
       "topics": [
         "awesome",
         "awesome-list",
@@ -841,7 +841,7 @@
         "web-application-firewall"
       ]
     },
-    "original_repository_sha": "5c2a468f349481974cb500dc69401dfe9bc0ce51",
+    "original_repository_sha": "b408e1b011159280bc703740cce9d03fa6387f71",
     "enhanced_repository": "enhansome/enhansome-Awesome-WAF",
     "enhanced_repository_description": null,
     "title": "Awesome WAF with stars"
