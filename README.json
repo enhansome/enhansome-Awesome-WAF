@@ -24,11 +24,11 @@
                         "id": 3482588,
                         "language": "PHP",
                         "license": "MIT",
-                        "last_commit": "2026-11-24T11:10:56Z",
+                        "last_commit": "2026-11-25T17:10:06Z",
                         "open_issues": 11,
                         "owner": "danielmiessler",
                         "repo": "SecLists",
-                        "stars": 74940,
+                        "stars": 74962,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -49,7 +49,7 @@
                         "open_issues": 15,
                         "owner": "fuzzdb-project",
                         "repo": "fuzzdb",
-                        "stars": 9010,
+                        "stars": 9011,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:24:03.406Z"
@@ -70,7 +70,7 @@
                         "open_issues": 4,
                         "owner": "foospidy",
                         "repo": "payloads",
-                        "stars": 4006,
+                        "stars": 4010,
                         "topics": [
                           "appsec",
                           "cybersecurity",
@@ -178,7 +178,7 @@
                 "open_issues": 9,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": [
                   "bugbounty",
                   "bypassing",
@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "kmkz",
                 "repo": "Pentesting",
-                "stars": 591,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -304,7 +304,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-04-19T12:47:41Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "EnableSecurity",
                 "repo": "wafw00f",
                 "stars": 6607,
@@ -512,7 +512,7 @@
                 "open_issues": 14,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 39032,
+                "stars": 39049,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -608,7 +608,7 @@
                 "open_issues": 9,
                 "owner": "vincentcox",
                 "repo": "bypass-firewalls-by-DNS-history",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": [
                   "bugbounty",
                   "bypassing",
@@ -636,7 +636,7 @@
                 "open_issues": 11,
                 "owner": "khalilbijjou",
                 "repo": "WAFNinja",
-                "stars": 835,
+                "stars": 836,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:24:03.406Z"
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:36:50.016Z",
+    "last_updated": "2026-11-26T02:56:58.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything about Web Application Firewalls (WAFs) from a security eyelens! 🔥",
@@ -824,7 +824,7 @@
       "open_issues": 1,
       "owner": "0xInfection",
       "repo": "Awesome-WAF",
-      "stars": 7694,
+      "stars": 7695,
       "topics": [
         "awesome",
         "awesome-list",
